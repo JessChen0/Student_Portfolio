@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jessica Chen
 **M.S. Data Science Student @ CUNY | Finance & Operations Professional**
 
-I am a part-time data science student and financial manager based in New York City, focused on the intersection of **technical documentation, AI governance, and strategic oversight**. My interest is in translating complex data into actionable policy and operational frameworks.
+I am a part-time data science student and financial manager based in New York City.  I am interested in the intersection of **technical documentation, AI governance, and strategic oversight**. My interest is in translating complex data into actionable policy and operational frameworks.
 
 ---
 
@@ -18,6 +18,10 @@ I am a part-time data science student and financial manager based in New York Ci
 * **Fractional CFO:** Providing strategic financial oversight and regulatory compliance for non-profits.
 * **Strategy & Operations (Deloitte):** Led global program management offices to design and implement new operating models.
 * **Category Management (HelloFresh/Roland Foods):** Managed multi-million dollar portfolios with a focus on risk reduction and vendor sourcing.
+
+## Sample Repositories
+* **Regression Factors in Dogs:**(https://github.com/JessChen0/Aggression_Factors_Dogs).
+* **Valued Data Science Skills**(https://github.com/JessChen0/Assignment_3_Data_Science_Skills).
 
 ---
 
